@@ -12766,7 +12766,7 @@
     (property "Value" "SW_Push" (at 62.23 313.69 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB" (at 62.23 313.69 0)
+    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB" (at 62.23 313.69 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 62.23 313.69 0)

@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "Z:\\KiCad\\Keyboard\\HotKeyBoard.kicad_sch")
-    (date "16.03.2024 20:44:13")
+    (date "17.03.2024 08:55:04")
     (tool "Eeschema 7.0.7")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -4330,7 +4330,7 @@
       (tstamps "4e3d2d2a-0e21-4db8-b386-0ec5ff2aa196"))
     (comp (ref "SW5")
       (value "SW_Push")
-      (footprint "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB")
+      (footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB")
       (libsource (lib "Switch") (part "SW_Push") (description "Push button switch, generic, two pins"))
       (property (name "Sheetname") (value ""))
       (property (name "Sheetfile") (value "HotKeyBoard.kicad_sch"))
