@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "Z:\\KiCad\\Keyboard\\HotKeyBoard.kicad_sch")
-    (date "4/10/2024 7:24:09 PM")
+    (date "4/10/2024 9:43:14 PM")
     (tool "Eeschema 7.0.7")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -2925,9 +2925,12 @@
       (tstamps "44d1320c-68f3-4f5e-8959-6149f75b3fa3"))
     (comp (ref "MicroUSB1")
       (value "USB_OTG")
-      (footprint "Connector_USB:USB_Micro-B_Molex_47346-0001")
+      (footprint "Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal")
       (datasheet " ~")
+      (fields
+        (field (name "LCSC") "C114094"))
       (libsource (lib "Connector") (part "USB_OTG") (description "USB mini/micro connector"))
+      (property (name "LCSC") (value "C114094"))
       (property (name "Sheetname") (value ""))
       (property (name "Sheetfile") (value "HotKeyBoard.kicad_sch"))
       (property (name "ki_description") (value "USB mini/micro connector"))
