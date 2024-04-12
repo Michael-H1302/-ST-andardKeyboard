@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "Z:\\KiCad\\Keyboard\\HotKeyBoard.kicad_sch")
-    (date "4/11/2024 9:59:32 PM")
+    (date "4/12/2024 12:44:11 PM")
     (tool "Eeschema 7.0.7")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -2925,12 +2925,12 @@
       (tstamps "44d1320c-68f3-4f5e-8959-6149f75b3fa3"))
     (comp (ref "MicroUSB1")
       (value "USB_OTG")
-      (footprint "Library:MICRO-USB_SMD_USB-MR-D-034")
+      (footprint "Library:MICRO-USB-SMD_5P-P0.65-H-F_U254-051T-4BH81-S2S")
       (datasheet " ~")
       (fields
-        (field (name "LCSC") "C114094"))
+        (field (name "LCSC") "C381144"))
       (libsource (lib "Connector") (part "USB_OTG") (description "USB mini/micro connector"))
-      (property (name "LCSC") (value "C114094"))
+      (property (name "LCSC") (value "C381144"))
       (property (name "Sheetname") (value ""))
       (property (name "Sheetfile") (value "HotKeyBoard.kicad_sch"))
       (property (name "ki_description") (value "USB mini/micro connector"))
