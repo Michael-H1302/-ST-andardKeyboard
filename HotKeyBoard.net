@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "Z:\\KiCad\\Keyboard\\HotKeyBoard.kicad_sch")
-    (date "4/20/2024 7:53:28 PM")
+    (date "4/20/2024 8:17:20 PM")
     (tool "Eeschema 7.0.7")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
@@ -2790,7 +2790,7 @@
       (tstamps "aa05ed0e-bdb5-40f8-89fa-f3dfc1073806"))
     (comp (ref "Q1")
       (value "IRLZ34N")
-      (footprint "Package_TO_SOT_SMD:TO-263-2")
+      (footprint "Package_TO_SOT_THT:TO-220-3_Vertical")
       (datasheet "http://www.infineon.com/dgdl/irlz34npbf.pdf?fileId=5546d462533600a40153567206892720")
       (fields
         (field (name "LCSC") "C538198"))
