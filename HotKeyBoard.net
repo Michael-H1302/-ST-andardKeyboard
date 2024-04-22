@@ -1,7 +1,7 @@
 (export (version "E")
   (design
     (source "Z:\\KiCad\\Keyboard\\HotKeyBoard.kicad_sch")
-    (date "4/21/2024 8:32:24 PM")
+    (date "4/22/2024 9:47:19 PM")
     (tool "Eeschema 7.0.7")
     (sheet (number "1") (name "/") (tstamps "/")
       (title_block
